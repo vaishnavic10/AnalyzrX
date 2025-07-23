@@ -1,0 +1,78 @@
+.upload-form-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  background-color: #d098e3 ;
+  border-radius: 16px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+}
+
+.upload-form-container h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+.upload-form-container input[type="file"] {
+  display: block;
+  margin: 0 auto 1rem;
+  padding: 8px;
+  border-radius: 8px;
+  background-color: #f1bef5;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+.upload-form-container button {
+  display: block;
+  margin: 1rem auto;
+  padding: 0.6rem 1.2rem;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.upload-form-container button:hover {
+  transform: scale(1.05);
+}
+
+.select-section {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.select-section select {
+  padding: 0.6rem;
+  border-radius: 10px;
+  border: 1px solid #ac7bc0;
+  font-size: 1rem;
+  min-width: 150px;
+}
+
+.chart-section {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #fdfbfd;
+  border: 1px dashed #ccc;
+  border-radius: 12px;
+}
+
+.summary-box {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #fff2cc;
+  border-left: 5px solid #ffab00;
+  border-radius: 10px;
+  font-size: 16px;
+  color: #333;
+}
+
+
