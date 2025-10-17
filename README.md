@@ -60,16 +60,16 @@ npm start
 # Run the frontend
 cd ../frontend
 npm start
+```
+---
+## 📊 Key Metrics
+
+| Metric | Description |
+|--------|--------------|
+| ⏱️ **Efficiency** | Achieved **80% reduction** in manual Excel reporting time |
+| ⚙️ **Performance** | Improved frontend rendering and data parsing speed by **30%** |
+| 🧠 **AI Insights** | Enhanced data interpretation efficiency by **60%** through AI summaries |
+| 🔐 **Security** | Implemented **JWT-based authentication**, ensuring secure user sessions |
 
 ---
-# 📊 Key Metrics
 
-⏱️ 80% reduction in manual Excel reporting time
-
-⚙️ 30% faster frontend rendering and data parsing
-
-🧠 AI summaries improve interpretation efficiency by 60%
-
-🔐 Secure, token-based user authentication and session control
-
----
