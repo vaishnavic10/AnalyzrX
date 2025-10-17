@@ -29,6 +29,17 @@ It simplifies complex data reporting by providing **AI-generated summaries**, **
 
 ---
 
+## 📊 Key Metrics
+
+| Metric | Description |
+|--------|--------------|
+| ⏱️ **Efficiency** | Achieved **80% reduction** in manual Excel reporting time |
+| ⚙️ **Performance** | Improved frontend rendering and data parsing speed by **30%** |
+| 🧠 **AI Insights** | Enhanced data interpretation efficiency by **60%** through AI summaries |
+| 🔐 **Security** | Implemented **JWT-based authentication**, ensuring secure user sessions |
+
+---
+
 ## ⚙️ Installation Guide
 
 Follow these steps to run AnalyzrX locally:
@@ -61,15 +72,4 @@ npm start
 cd ../frontend
 npm start
 ```
----
-## 📊 Key Metrics
-
-| Metric | Description |
-|--------|--------------|
-| ⏱️ **Efficiency** | Achieved **80% reduction** in manual Excel reporting time |
-| ⚙️ **Performance** | Improved frontend rendering and data parsing speed by **30%** |
-| 🧠 **AI Insights** | Enhanced data interpretation efficiency by **60%** through AI summaries |
-| 🔐 **Security** | Implemented **JWT-based authentication**, ensuring secure user sessions |
-
----
 
