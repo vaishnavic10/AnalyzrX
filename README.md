@@ -1,7 +1,7 @@
 # 🧠 AnalyzrX
 
 AnalyzrX is a **full-stack data analytics platform** built with the **MERN stack (MongoDB, Express.js, React.js, Node.js)** that enables users to **upload, parse, and visualize Excel (.xlsx) datasets**.  
-It simplifies complex data reporting by providing **AI-generated summaries**, **interactive 2D/3D visualizations**, and **secure user authentication** — all in one place.
+It simplifies complex data reporting by providing **AI-generated summaries**, **interactive 2D/3D visualizations**, and **secure user authentication** all in one place.
 
 ---
 
@@ -26,11 +26,6 @@ It simplifies complex data reporting by providing **AI-generated summaries**, **
 | **AI Integration** | OpenAI API |
 | **File Handling** | SheetJS (xlsx) |
 | **Authentication** | JWT (JSON Web Tokens) |
-
----
-
-Example:  
-![Dashboard Preview](https://via.placeholder.com/900x450?text=AnalyzrX+Dashboard+Preview)
 
 ---
 
